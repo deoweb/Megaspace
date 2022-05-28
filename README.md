@@ -1,4 +1,4 @@
-# Ultraspace
+# Superspace [Ultraspace Duplicate]
 
 > Fasted Discord Proxy
 
