@@ -1,8 +1,8 @@
 {
-    "name": "Womginx",
-    "description": "Fastest proxy using only nginx as the backend server",
-    "repository": "https://github.com/binary-person/womginx",
-    "logo": "https://raw.githubusercontent.com/binary-person/womginx/master/public/logo.png",
+    "name": "Ultraspace",
+    "description": "Fastest Discord Proxy",
+    "repository": "https://github.com/XGamesX-GG/Ultraspace",
+    "logo": "https://cdn.discordapp.com/attachments/971936447995183114/980175035203469332/purp.png",
     "keywords": [
         "nginx",
         "docker"
